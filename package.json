@@ -1,0 +1,29 @@
+{
+  "name": "code-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrays1.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^5.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^11.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/streleck/Code-Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/streleck/Code-Workshop/issues"
+  },
+  "homepage": "https://github.com/streleck/Code-Workshop#readme"
+}
